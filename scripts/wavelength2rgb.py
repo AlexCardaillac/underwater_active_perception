@@ -2,10 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 plt.style.use('ggplot')
 
-blue_w = (400, 500)
-green_w = (500, 600)
-red_w = (600, 700)
-
 # Jerlov I
 JI = np.array([
     [300, 0.163, 2.08e-02],
@@ -215,6 +211,10 @@ J9C = np.array([
     [675, 0.604, 2.20],
     [700, 0.651, 2.07]
 ])
+
+blue_w = (400, 500)
+green_w = (500, 600)
+red_w = (600, 700)
 
 J = JIB
 tt = "IB"
