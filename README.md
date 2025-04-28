@@ -1,4 +1,5 @@
-Learning Underwater Active Perception in Simulation [[website]]() [[paper]]()
+Learning Underwater Active Perception in Simulation\
+[[website]](https://roboticimaging.org/Projects/ActiveUW/) [[paper]](https://arxiv.org/abs/2504.17817)
 ===============
 This repository contains the code of the "Learning Underwater Active Perception in Simulation" publication. Specifically, it contains the MLP model and a prediction script with two example scenarios, the conversion of the Jerlov water type data, and an example Blender scene.
 
@@ -35,11 +36,12 @@ This makes it possible to replicate the existing oceans and their light absorpti
 ## Citation
 If you find our work useful, please cite the following paper:
 ```
-@InProceedings{cardaillac2025uw_active_perception,
-    author    = {Cardaillac, Alexandre and Dansereau, Donald G.},
-    title     = {Learning Underwater Active Perception in Simulation},
-    booktitle = {},
-    month     = {April},
-    year      = {2025},
-}
+@misc{cardaillac2025uw_active_perception,
+      title={Learning Underwater Active Perception in Simulation},
+      author={Alexandre Cardaillac and Donald G. Dansereau},
+      year={2025},
+      eprint={2504.17817},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.17817},
 ```
