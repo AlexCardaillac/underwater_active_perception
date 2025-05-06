@@ -36,12 +36,13 @@ This makes it possible to replicate the existing oceans and their light absorpti
 ## Citation
 If you find our work useful, please cite the following paper:
 ```
-@misc{cardaillac2025uw_active_perception,
-      title={Learning Underwater Active Perception in Simulation},
-      author={Alexandre Cardaillac and Donald G. Dansereau},
-      year={2025},
-      eprint={2504.17817},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2504.17817},
+@misc{cardaillac2025learning,
+  title={Learning Underwater Active Perception in Simulation},
+  author={Alexandre Cardaillac and Donald G. Dansereau},
+  year={2025},
+  eprint={2504.17817},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2504.17817},
+}
 ```
